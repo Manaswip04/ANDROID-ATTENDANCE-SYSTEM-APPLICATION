@@ -13,7 +13,7 @@ XML
 ### Database 
 SQLite
 
-###Abstract 
+### Abstract 
 Attendance Management System application is a software developed for daily student 
 attendance in schools, colleges and institutes. This system of android application aids the 
 faculty to carry out the attendance of all the students faster and productively in a single tap. 
