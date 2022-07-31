@@ -1,7 +1,7 @@
 # ANDROID-ATTENDANCE-SYSTEM-APPLICATION
 
-###About Coding Language
-Java
+###About Project
+Coding Language : Java
 
 ### Frontend
 XML
